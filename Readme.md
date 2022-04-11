@@ -1,6 +1,6 @@
 ``
-Name	 : Emmadi Santhosh
-Role     : Data Engineer, Opensource Technologies
+Name	 : Emmadi Santhosh\
+Role     : Data Engineer, Opensource Technologies\
 Experience : 10+
 Email	: eskguptha@gmail.com
 Domains : Healthcare, Digital Marketing, Insurance, E-commerce & NGO's
