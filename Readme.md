@@ -14,14 +14,9 @@
 **Languages(Speak)**      : English, Telugu & Hindi\
 **Email**	                : eskguptha@gmail.com\
 **Location**              : Hyderabad, Telangana, India\
-**Github**	              : https://github.com/eskguptha
 
+**Github**	              : https://github.com/eskguptha\
+**Gitlab**                : https://gitlab.com/eskguptha\
+**Docker Registry**       : https://hub.docker.com/u/eskguptha\
+**Web Screen Recorder**   :https://chrome.google.com/webstore/detail/webscreenrecorder/lkjmohpchdinhmmomfhcponobbkjgbck/
 
-**Docker Registry**
-https://hub.docker.com/u/eskguptha
-
-**Web Screen Recorder** 
-https://chrome.google.com/webstore/detail/webscreenrecorder/lkjmohpchdinhmmomfhcponobbkjgbck/
-
-**Gitlab**
-https://gitlab.com/eskguptha
