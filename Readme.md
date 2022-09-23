@@ -17,7 +17,7 @@
 **Github**	              : https://github.com/eskguptha
 
 
-**Docker Registry
+**Docker Registry**
 https://hub.docker.com/u/eskguptha
 
 **Web Screen Recorder** 
