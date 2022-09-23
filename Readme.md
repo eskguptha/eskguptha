@@ -1,5 +1,5 @@
 #My Profile\
-**Name**	                : Santhosh Emmadi\
+**Name**	                : Emmadi Santhosh Kumar Guptha (ESKGuptha)\
 **Role**                  : Data Engineer, Opensource Technologies\
 **Domains**               : Healthcare, Digital Marketing, Insurance, E-commerce & NGO's\
 **Scripting**             : Python, Bash, Php, Perl & Lua\
