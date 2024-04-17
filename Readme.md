@@ -9,8 +9,8 @@
 **Frameworks**            : Django, Flask, FastAPI, SpringBoot, Codeigniter, Bottle, Pyramid, Web2py, AIOHTTP & Tornado\
 **Database**              : Mysql, PostgerSQL, MSSQL, ElasticSearch, CouchDB, MongoDB, Redis\
 **Others**                : ORM, SqlAlchemy, Docker, WebRTC, Twilio, RapidPro, Kafka, REST API, SOAP Services,Device Integration, Socket Programming, Bluetooth, MQTT,                             Airflow, Celery, CronTab & MS Azure Eventhub, Datadog, Sonarcube, Pytest, Git Pipeline Jobs, Hibernate, Macros, jinja template, tmux &                                 Ansible. \
-**Hosting**               : VM's, AWS & GCP\
-**Platform**	            : Linux, Windows\
+**Hosting**               : AZURE, AWS & GCP\
+**Platforms**	            : Linux, Windows\
 **Languages(Speak)**      : English, Telugu & Hindi\
 **Email**	                : eskguptha@gmail.com\
 **Location**              : Hyderabad, Telangana, India
